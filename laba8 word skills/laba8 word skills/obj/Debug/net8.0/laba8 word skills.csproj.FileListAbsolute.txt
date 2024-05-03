@@ -1,0 +1,14 @@
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\bin\Debug\net8.0\laba8 word skills.exe
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\bin\Debug\net8.0\laba8 word skills.deps.json
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\bin\Debug\net8.0\laba8 word skills.runtimeconfig.json
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\bin\Debug\net8.0\laba8 word skills.dll
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\bin\Debug\net8.0\laba8 word skills.pdb
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.AssemblyInfoInputs.cache
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.AssemblyInfo.cs
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.csproj.CoreCompileInputs.cache
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.dll
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\refint\laba8 word skills.dll
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.pdb
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\laba8 word skills.genruntimeconfig.cache
+C:\Users\dushi\source\repos\laba8 word skills\laba8 word skills\obj\Debug\net8.0\ref\laba8 word skills.dll
